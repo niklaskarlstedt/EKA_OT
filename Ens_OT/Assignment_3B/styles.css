@@ -1,0 +1,22 @@
+.myDiv {
+    border: 2px outset blueviolet;
+    background-color: blue;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+body{
+    background-color: black;
+}
+.white {
+    color: white
+}
+h1 {
+    font-size:  20px;
+}
+p {
+    font-size: 12px;
+}
+.green {
+    color: green;
+}
