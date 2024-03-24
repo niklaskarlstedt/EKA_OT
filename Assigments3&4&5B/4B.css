@@ -1,0 +1,55 @@
+body { 
+    background-image: url("street-8316703_1280.jpg");
+    
+}
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    font-style: italic;
+    width: 220px;
+    color:antiquewhite
+    
+}
+
+h2 { 
+    text-align: center;
+    border-style: solid;
+    font-style: italic;
+    width: 400px;
+    color:antiquewhite
+    
+}
+
+p { 
+    font-size: larger;
+    font-style: italic;
+    border-style: solid;
+    background-color: brown;
+   border-radius: 25px;
+   padding: 30px;
+   width: 200px;
+   height: 20px;
+   color:antiquewhite   
+}
+
+label {
+    color: antiquewhite;
+}
+
+figcaption {
+    color: antiquewhite;
+    font-style: italic;
+}
+
+berlin-8054311_1280 {
+    position: relative;
+    right: 200px
+}
+
+a {
+    color: white;
+    float: inline-start;
+    font-size: larger;
+}
+

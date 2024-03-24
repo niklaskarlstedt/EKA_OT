@@ -1,0 +1,63 @@
+h1 {
+    border-style: solid;
+    font-style: italic;
+    text-align: center;
+    color: white;
+    background: black;
+    margin: 0;
+    padding: 20px
+}
+
+h2 {
+    text-align: center;
+    font-size: larger;
+}
+
+
+
+header{
+    border-style: solid;
+    font-style: italic;
+    text-align: center;
+    background-color: burlywood;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 30px
+}
+
+
+
+nav{
+    border-top: 1px;
+    color: white;
+    background-color: burlywood;
+    border-style: solid;
+    float: left;
+    width: 18%;
+    height: 603px;
+    padding: 20px  
+}
+li{
+    font-size: x-large
+
+}
+
+section{
+    color: white;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 150px;
+    background-image: url("coffee-beans-8286087_1280.jpg")
+}
+
+a:hover{
+    color: red;
+}
+
+p{
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}

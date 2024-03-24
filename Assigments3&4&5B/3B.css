@@ -20,3 +20,8 @@ p {
 .green {
     color: green;
 }
+
+a{
+    color: white;
+    font-size: larger;
+}
